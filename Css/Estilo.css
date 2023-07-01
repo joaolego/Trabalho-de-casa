@@ -1,0 +1,14 @@
+.a1{
+    width: 360px;
+    height: 1000px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+span{
+    width: 360px;
+    height: 40px;
+    background-color: bisque;
+    margin-top: 5px;
+}
